@@ -307,6 +307,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/java/</loc>
+    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/leaflet/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -343,11 +348,6 @@
   
   <url>
     <loc>http://example.org/tags/android/</loc>
-    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/java/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
   

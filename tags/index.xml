@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title> Glkit</title>
+      <title> GLKit</title>
       <link>http://example.org/tags/glkit/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title> OpenCV</title>
+      <title> opencv</title>
       <link>http://example.org/tags/opencv/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -327,6 +327,15 @@
     </item>
     
     <item>
+      <title> java</title>
+      <link>http://example.org/tags/java/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Leaflet</title>
       <link>http://example.org/tags/leaflet/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
@@ -395,15 +404,6 @@
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
       <guid>http://example.org/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java</title>
-      <link>http://example.org/tags/java/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/java/</guid>
       <description></description>
     </item>
     
