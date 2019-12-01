@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title> AWS</title>
-      <link>https://richstoner.github.io/tags/aws/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> C#</title>
       <link>https://richstoner.github.io/tags/c#/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
@@ -39,7 +30,7 @@
     </item>
     
     <item>
-      <title> Glkit</title>
+      <title> GLKit</title>
       <link>https://richstoner.github.io/tags/glkit/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -138,6 +129,15 @@
     </item>
     
     <item>
+      <title> Unity3D</title>
+      <link>https://richstoner.github.io/tags/unity3d/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/unity3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> vagrant</title>
       <link>https://richstoner.github.io/tags/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
@@ -165,6 +165,15 @@
     </item>
     
     <item>
+      <title>AWS</title>
+      <link>https://richstoner.github.io/tags/aws/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>flask</title>
       <link>https://richstoner.github.io/tags/flask/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
@@ -188,15 +197,6 @@
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
       <guid>https://richstoner.github.io/tags/ipython/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity3D</title>
-      <link>https://richstoner.github.io/tags/unity3d/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/unity3d/</guid>
       <description></description>
     </item>
     
@@ -327,24 +327,6 @@
     </item>
     
     <item>
-      <title> c&#43;&#43;</title>
-      <link>https://richstoner.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> java</title>
-      <link>https://richstoner.github.io/tags/java/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> Leaflet</title>
       <link>https://richstoner.github.io/tags/leaflet/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
@@ -404,6 +386,24 @@
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
       <guid>https://richstoner.github.io/tags/xtk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://richstoner.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://richstoner.github.io/tags/java/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/java/</guid>
       <description></description>
     </item>
     
