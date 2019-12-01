@@ -97,7 +97,17 @@
   </url>
   
   <url>
+    <loc>http://example.org/current/cajalco/</loc>
+    <lastmod>2019-11-07T11:10:41-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/cajalco/</loc>
+    <lastmod>2019-11-07T11:10:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/current/</loc>
     <lastmod>2019-11-07T11:10:41-08:00</lastmod>
   </url>
   
@@ -112,22 +122,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/current/</loc>
-    <lastmod>2019-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/current/wwag/</loc>
     <lastmod>2019-11-06T19:50:49-08:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/tags/angular.js/</loc>
-    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/aws/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
   
@@ -192,6 +192,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/unity3d/</loc>
+    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/vagrant/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -203,6 +208,11 @@
   
   <url>
     <loc>http://example.org/tags/webgl/</loc>
+    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/aws/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
   
@@ -228,11 +238,6 @@
   
   <url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/unity3d/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
   
@@ -307,11 +312,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/java/</loc>
-    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/tags/leaflet/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -348,6 +348,11 @@
   
   <url>
     <loc>http://example.org/tags/android/</loc>
+    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/java/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
   

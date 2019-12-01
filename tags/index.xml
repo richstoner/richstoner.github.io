@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title> AWS</title>
-      <link>http://example.org/tags/aws/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> C#</title>
       <link>http://example.org/tags/c#/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
@@ -39,7 +30,7 @@
     </item>
     
     <item>
-      <title> GLKit</title>
+      <title> Glkit</title>
       <link>http://example.org/tags/glkit/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -84,7 +75,7 @@
     </item>
     
     <item>
-      <title> opencv</title>
+      <title> OpenCV</title>
       <link>http://example.org/tags/opencv/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -138,6 +129,15 @@
     </item>
     
     <item>
+      <title> Unity3D</title>
+      <link>http://example.org/tags/unity3d/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/tags/unity3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> vagrant</title>
       <link>http://example.org/tags/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
@@ -147,7 +147,7 @@
     </item>
     
     <item>
-      <title> VTK</title>
+      <title> vtk</title>
       <link>http://example.org/tags/vtk/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -161,6 +161,15 @@
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
       <guid>http://example.org/tags/webgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>http://example.org/tags/aws/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/tags/aws/</guid>
       <description></description>
     </item>
     
@@ -188,15 +197,6 @@
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
       <guid>http://example.org/tags/ipython/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity3D</title>
-      <link>http://example.org/tags/unity3d/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/unity3d/</guid>
       <description></description>
     </item>
     
@@ -327,15 +327,6 @@
     </item>
     
     <item>
-      <title> java</title>
-      <link>http://example.org/tags/java/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> Leaflet</title>
       <link>http://example.org/tags/leaflet/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
@@ -404,6 +395,15 @@
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
       <guid>http://example.org/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>http://example.org/tags/java/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/tags/java/</guid>
       <description></description>
     </item>
     
