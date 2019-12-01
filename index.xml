@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rich Stoner</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Rich Stoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 11:10:41 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://example.org/cajalco/1-web-based_anatomy_tutorial/</link>
+      <pubDate>Thu, 07 Nov 2019 11:10:41 -0800</pubDate>
+      
+      <guid>http://example.org/cajalco/1-web-based_anatomy_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://example.org/wwag/1-web-based_anatomy_tutorial/</link>
+      <pubDate>Thu, 07 Nov 2019 11:10:41 -0800</pubDate>
+      
+      <guid>http://example.org/wwag/1-web-based_anatomy_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-Based Anatomy Tutorial</title>
+      <link>http://example.org/previous/1-web-based_anatomy_tutorial/</link>
+      <pubDate>Tue, 06 Nov 2001 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/1-web-based_anatomy_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://example.org/cv/1-web-based_anatomy_tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/1-web-based_anatomy_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebrii - 3D brain atlas for iPhone</title>
+      <link>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</link>
+      <pubDate>Thu, 06 Nov 2008 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC Metro brain map</title>
+      <link>http://example.org/previous/5-dc-brainmap/</link>
+      <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/5-dc-brainmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WholeSlide</title>
+      <link>http://example.org/previous/14-wholeslide/</link>
+      <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/14-wholeslide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Consilience</title>
+      <link>http://example.org/previous/17-cognitive_consilience/</link>
+      <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/17-cognitive_consilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenWorm Browser for iOS</title>
+      <link>http://example.org/previous/23-openworm_browser_for_ios/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/23-openworm_browser_for_ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FigureZero</title>
+      <link>http://example.org/previous/24-figurezero/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/24-figurezero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USB Ultrasound for Android</title>
+      <link>http://example.org/previous/27-usb_ultrasound_for_android/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/27-usb_ultrasound_for_android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualcomm Uplinq hackathon</title>
+      <link>http://example.org/previous/29-qualcomm_uplinq_hackathon/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/29-qualcomm_uplinq_hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeKinesis</title>
+      <link>http://example.org/previous/30-eyekinesis/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/30-eyekinesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-headset free-moving gaze tracking system</title>
+      <link>http://example.org/previous/36-multi-headset_free-moving_gaze_capture_system_for_windows/</link>
+      <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/36-multi-headset_free-moving_gaze_capture_system_for_windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering connectivity</title>
+      <link>http://example.org/previous/38-rendering_connectivity/</link>
+      <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/38-rendering_connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postmortem image processing pipeline</title>
+      <link>http://example.org/previous/43-postmortem_image_processing_pipeline/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/43-postmortem_image_processing_pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WholeSlide DURA</title>
+      <link>http://example.org/previous/44-wholeslide_dura/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/44-wholeslide_dura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dermoscopy Annotator</title>
+      <link>http://example.org/previous/45-dermoscopy_annotator/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/45-dermoscopy_annotator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze-based Gaming using EyeTribe standalone eyetracker</title>
+      <link>http://example.org/previous/46-gaze-based_gaming_using_eyetribe_standalone_eyetracker/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/46-gaze-based_gaming_using_eyetribe_standalone_eyetracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where We Are Going</title>
+      <link>http://example.org/current/wwag/</link>
+      <pubDate>Wed, 06 Nov 2019 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/current/wwag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

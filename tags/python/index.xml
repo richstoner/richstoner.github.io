@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> python on Rich Stoner</title>
+    <link>http://example.org/tags/python/</link>
+    <description>Recent content in  python on Rich Stoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Nov 2013 19:50:49 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cerebrii - 3D brain atlas for iPhone</title>
+      <link>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</link>
+      <pubDate>Thu, 06 Nov 2008 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USB Ultrasound for Android</title>
+      <link>http://example.org/previous/27-usb_ultrasound_for_android/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/27-usb_ultrasound_for_android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-headset free-moving gaze tracking system</title>
+      <link>http://example.org/previous/36-multi-headset_free-moving_gaze_capture_system_for_windows/</link>
+      <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/36-multi-headset_free-moving_gaze_capture_system_for_windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering connectivity</title>
+      <link>http://example.org/previous/38-rendering_connectivity/</link>
+      <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/38-rendering_connectivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

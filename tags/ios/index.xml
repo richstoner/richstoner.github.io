@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on Rich Stoner</title>
+    <link>http://example.org/tags/ios/</link>
+    <description>Recent content in iOS on Rich Stoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2014 19:50:49 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cerebrii - 3D brain atlas for iPhone</title>
+      <link>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</link>
+      <pubDate>Thu, 06 Nov 2008 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WholeSlide</title>
+      <link>http://example.org/previous/14-wholeslide/</link>
+      <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/14-wholeslide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Consilience</title>
+      <link>http://example.org/previous/17-cognitive_consilience/</link>
+      <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/17-cognitive_consilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenWorm Browser for iOS</title>
+      <link>http://example.org/previous/23-openworm_browser_for_ios/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/23-openworm_browser_for_ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FigureZero</title>
+      <link>http://example.org/previous/24-figurezero/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/24-figurezero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeKinesis</title>
+      <link>http://example.org/previous/30-eyekinesis/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/30-eyekinesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WholeSlide DURA</title>
+      <link>http://example.org/previous/44-wholeslide_dura/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/44-wholeslide_dura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flask on Rich Stoner</title>
+    <link>http://example.org/tags/flask/</link>
+    <description>Recent content in flask on Rich Stoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2014 19:50:49 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dermoscopy Annotator</title>
+      <link>http://example.org/previous/45-dermoscopy_annotator/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>http://example.org/previous/45-dermoscopy_annotator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

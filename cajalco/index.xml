@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cajalcos on Rich Stoner</title>
+    <link>http://example.org/cajalco/</link>
+    <description>Recent content in Cajalcos on Rich Stoner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 11:10:41 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/cajalco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://example.org/cajalco/1-web-based_anatomy_tutorial/</link>
+      <pubDate>Thu, 07 Nov 2019 11:10:41 -0800</pubDate>
+      
+      <guid>http://example.org/cajalco/1-web-based_anatomy_tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
