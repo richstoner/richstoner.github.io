@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> blender on Rich Stoner</title>
-    <link>http://example.org/tags/blender/</link>
+    <link>https://richstoner.github.io/tags/blender/</link>
     <description>Recent content in  blender on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2013 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cerebrii - 3D brain atlas for iPhone</title>
-      <link>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</link>
+      <link>https://richstoner.github.io/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</link>
       <pubDate>Thu, 06 Nov 2008 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</guid>
+      <guid>https://richstoner.github.io/previous/6-cerebrii_-_3d_brain_atlas_for_iphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rendering connectivity</title>
-      <link>http://example.org/previous/38-rendering_connectivity/</link>
+      <link>https://richstoner.github.io/previous/38-rendering_connectivity/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/38-rendering_connectivity/</guid>
+      <guid>https://richstoner.github.io/previous/38-rendering_connectivity/</guid>
       <description></description>
     </item>
     

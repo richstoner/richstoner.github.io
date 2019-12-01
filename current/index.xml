@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Currents on Rich Stoner</title>
-    <link>http://example.org/current/</link>
+    <link>https://richstoner.github.io/current/</link>
     <description>Recent content in Currents on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 11:10:41 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/current/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/current/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cajal Corporation</title>
-      <link>http://example.org/current/cajalco/</link>
+      <link>https://richstoner.github.io/current/cajalco/</link>
       <pubDate>Thu, 07 Nov 2019 11:10:41 -0800</pubDate>
       
-      <guid>http://example.org/current/cajalco/</guid>
+      <guid>https://richstoner.github.io/current/cajalco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where We Are Going</title>
-      <link>http://example.org/current/wwag/</link>
+      <link>https://richstoner.github.io/current/wwag/</link>
       <pubDate>Wed, 06 Nov 2019 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/current/wwag/</guid>
+      <guid>https://richstoner.github.io/current/wwag/</guid>
       <description></description>
     </item>
     

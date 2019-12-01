@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> angular.js on Rich Stoner</title>
-    <link>http://example.org/tags/angular.js/</link>
+    <link>https://richstoner.github.io/tags/angular.js/</link>
     <description>Recent content in  angular.js on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2014 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/angular.js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/angular.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dermoscopy Annotator</title>
-      <link>http://example.org/previous/45-dermoscopy_annotator/</link>
+      <link>https://richstoner.github.io/previous/45-dermoscopy_annotator/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/45-dermoscopy_annotator/</guid>
+      <guid>https://richstoner.github.io/previous/45-dermoscopy_annotator/</guid>
       <description></description>
     </item>
     

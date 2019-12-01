@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>map on Rich Stoner</title>
-    <link>http://example.org/tags/map/</link>
+    <link>https://richstoner.github.io/tags/map/</link>
     <description>Recent content in map on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Nov 2007 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/map/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/map/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DC Metro brain map</title>
-      <link>http://example.org/previous/5-dc-brainmap/</link>
+      <link>https://richstoner.github.io/previous/5-dc-brainmap/</link>
       <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/5-dc-brainmap/</guid>
+      <guid>https://richstoner.github.io/previous/5-dc-brainmap/</guid>
       <description></description>
     </item>
     

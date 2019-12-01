@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> oculus rift on Rich Stoner</title>
-    <link>http://example.org/tags/oculus-rift/</link>
+    <link>https://richstoner.github.io/tags/oculus-rift/</link>
     <description>Recent content in  oculus rift on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2013 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/oculus-rift/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/oculus-rift/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rendering connectivity</title>
-      <link>http://example.org/previous/38-rendering_connectivity/</link>
+      <link>https://richstoner.github.io/previous/38-rendering_connectivity/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/38-rendering_connectivity/</guid>
+      <guid>https://richstoner.github.io/previous/38-rendering_connectivity/</guid>
       <description></description>
     </item>
     

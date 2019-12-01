@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> OpenGL ES2.0 on Rich Stoner</title>
-    <link>http://example.org/tags/opengl-es2.0/</link>
+    <link>https://richstoner.github.io/tags/opengl-es2.0/</link>
     <description>Recent content in  OpenGL ES2.0 on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Nov 2012 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/opengl-es2.0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/opengl-es2.0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenWorm Browser for iOS</title>
-      <link>http://example.org/previous/23-openworm_browser_for_ios/</link>
+      <link>https://richstoner.github.io/previous/23-openworm_browser_for_ios/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/23-openworm_browser_for_ios/</guid>
+      <guid>https://richstoner.github.io/previous/23-openworm_browser_for_ios/</guid>
       <description></description>
     </item>
     

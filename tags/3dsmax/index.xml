@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3DSMax on Rich Stoner</title>
-    <link>http://example.org/tags/3dsmax/</link>
+    <link>https://richstoner.github.io/tags/3dsmax/</link>
     <description>Recent content in 3DSMax on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Nov 2001 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/3dsmax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/3dsmax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Web-Based Anatomy Tutorial</title>
-      <link>http://example.org/previous/1-web-based_anatomy_tutorial/</link>
+      <link>https://richstoner.github.io/previous/1-web-based_anatomy_tutorial/</link>
       <pubDate>Tue, 06 Nov 2001 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/previous/1-web-based_anatomy_tutorial/</guid>
+      <guid>https://richstoner.github.io/previous/1-web-based_anatomy_tutorial/</guid>
       <description></description>
     </item>
     

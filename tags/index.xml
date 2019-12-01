@@ -2,498 +2,498 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rich Stoner</title>
-    <link>http://example.org/tags/</link>
+    <link>https://richstoner.github.io/tags/</link>
     <description>Recent content in Tags on Rich Stoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2014 19:50:49 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richstoner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> angular.js</title>
-      <link>http://example.org/tags/angular.js/</link>
+      <link>https://richstoner.github.io/tags/angular.js/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/angular.js/</guid>
+      <guid>https://richstoner.github.io/tags/angular.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> AWS</title>
+      <link>https://richstoner.github.io/tags/aws/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title> C#</title>
-      <link>http://example.org/tags/c#/</link>
+      <link>https://richstoner.github.io/tags/c#/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/c#/</guid>
+      <guid>https://richstoner.github.io/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Glkit</title>
-      <link>http://example.org/tags/glkit/</link>
+      <link>https://richstoner.github.io/tags/glkit/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/glkit/</guid>
+      <guid>https://richstoner.github.io/tags/glkit/</guid>
       <description></description>
     </item>
     
     <item>
       <title> imageJ</title>
-      <link>http://example.org/tags/imagej/</link>
+      <link>https://richstoner.github.io/tags/imagej/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/imagej/</guid>
+      <guid>https://richstoner.github.io/tags/imagej/</guid>
       <description></description>
     </item>
     
     <item>
       <title> imagemagick</title>
-      <link>http://example.org/tags/imagemagick/</link>
+      <link>https://richstoner.github.io/tags/imagemagick/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/imagemagick/</guid>
+      <guid>https://richstoner.github.io/tags/imagemagick/</guid>
       <description></description>
     </item>
     
     <item>
       <title> ITK</title>
-      <link>http://example.org/tags/itk/</link>
+      <link>https://richstoner.github.io/tags/itk/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/itk/</guid>
+      <guid>https://richstoner.github.io/tags/itk/</guid>
       <description></description>
     </item>
     
     <item>
       <title> ObjectiveC</title>
-      <link>http://example.org/tags/objectivec/</link>
+      <link>https://richstoner.github.io/tags/objectivec/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/objectivec/</guid>
+      <guid>https://richstoner.github.io/tags/objectivec/</guid>
       <description></description>
     </item>
     
     <item>
       <title> OpenCV</title>
-      <link>http://example.org/tags/opencv/</link>
+      <link>https://richstoner.github.io/tags/opencv/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/opencv/</guid>
+      <guid>https://richstoner.github.io/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title> OpenGL ES2</title>
-      <link>http://example.org/tags/opengl-es2/</link>
+      <link>https://richstoner.github.io/tags/opengl-es2/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/opengl-es2/</guid>
+      <guid>https://richstoner.github.io/tags/opengl-es2/</guid>
       <description></description>
     </item>
     
     <item>
       <title> openlayers3</title>
-      <link>http://example.org/tags/openlayers3/</link>
+      <link>https://richstoner.github.io/tags/openlayers3/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/openlayers3/</guid>
+      <guid>https://richstoner.github.io/tags/openlayers3/</guid>
       <description></description>
     </item>
     
     <item>
       <title> openseadragon</title>
-      <link>http://example.org/tags/openseadragon/</link>
+      <link>https://richstoner.github.io/tags/openseadragon/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/openseadragon/</guid>
+      <guid>https://richstoner.github.io/tags/openseadragon/</guid>
       <description></description>
     </item>
     
     <item>
       <title> shader programming</title>
-      <link>http://example.org/tags/shader-programming/</link>
+      <link>https://richstoner.github.io/tags/shader-programming/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/shader-programming/</guid>
+      <guid>https://richstoner.github.io/tags/shader-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title> UCSF Chimera</title>
-      <link>http://example.org/tags/ucsf-chimera/</link>
+      <link>https://richstoner.github.io/tags/ucsf-chimera/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/ucsf-chimera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Unity3D</title>
-      <link>http://example.org/tags/unity3d/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/unity3d/</guid>
+      <guid>https://richstoner.github.io/tags/ucsf-chimera/</guid>
       <description></description>
     </item>
     
     <item>
       <title> vagrant</title>
-      <link>http://example.org/tags/vagrant/</link>
+      <link>https://richstoner.github.io/tags/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/vagrant/</guid>
+      <guid>https://richstoner.github.io/tags/vagrant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title> vtk</title>
-      <link>http://example.org/tags/vtk/</link>
+      <title> VTK</title>
+      <link>https://richstoner.github.io/tags/vtk/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/vtk/</guid>
+      <guid>https://richstoner.github.io/tags/vtk/</guid>
       <description></description>
     </item>
     
     <item>
       <title> webgl</title>
-      <link>http://example.org/tags/webgl/</link>
+      <link>https://richstoner.github.io/tags/webgl/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/webgl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>http://example.org/tags/aws/</link>
-      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/aws/</guid>
+      <guid>https://richstoner.github.io/tags/webgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>http://example.org/tags/flask/</link>
+      <link>https://richstoner.github.io/tags/flask/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/flask/</guid>
+      <guid>https://richstoner.github.io/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iOS</title>
-      <link>http://example.org/tags/ios/</link>
+      <link>https://richstoner.github.io/tags/ios/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/ios/</guid>
+      <guid>https://richstoner.github.io/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipython</title>
-      <link>http://example.org/tags/ipython/</link>
+      <link>https://richstoner.github.io/tags/ipython/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/ipython/</guid>
+      <guid>https://richstoner.github.io/tags/ipython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity3D</title>
+      <link>https://richstoner.github.io/tags/unity3d/</link>
+      <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/unity3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title> blender</title>
-      <link>http://example.org/tags/blender/</link>
+      <link>https://richstoner.github.io/tags/blender/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/blender/</guid>
+      <guid>https://richstoner.github.io/tags/blender/</guid>
       <description></description>
     </item>
     
     <item>
       <title> multiprocessing</title>
-      <link>http://example.org/tags/multiprocessing/</link>
+      <link>https://richstoner.github.io/tags/multiprocessing/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/multiprocessing/</guid>
+      <guid>https://richstoner.github.io/tags/multiprocessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title> numpy</title>
-      <link>http://example.org/tags/numpy/</link>
+      <link>https://richstoner.github.io/tags/numpy/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/numpy/</guid>
+      <guid>https://richstoner.github.io/tags/numpy/</guid>
       <description></description>
     </item>
     
     <item>
       <title> oculus rift</title>
-      <link>http://example.org/tags/oculus-rift/</link>
+      <link>https://richstoner.github.io/tags/oculus-rift/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/oculus-rift/</guid>
+      <guid>https://richstoner.github.io/tags/oculus-rift/</guid>
       <description></description>
     </item>
     
     <item>
       <title> python</title>
-      <link>http://example.org/tags/python/</link>
+      <link>https://richstoner.github.io/tags/python/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/python/</guid>
+      <guid>https://richstoner.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title> SDSC</title>
-      <link>http://example.org/tags/sdsc/</link>
+      <link>https://richstoner.github.io/tags/sdsc/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/sdsc/</guid>
+      <guid>https://richstoner.github.io/tags/sdsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title> win7</title>
-      <link>http://example.org/tags/win7/</link>
+      <link>https://richstoner.github.io/tags/win7/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/win7/</guid>
+      <guid>https://richstoner.github.io/tags/win7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pupil</title>
-      <link>http://example.org/tags/pupil/</link>
+      <link>https://richstoner.github.io/tags/pupil/</link>
       <pubDate>Wed, 06 Nov 2013 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/pupil/</guid>
+      <guid>https://richstoner.github.io/tags/pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Android</title>
+      <link>https://richstoner.github.io/tags/android/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Backbone</title>
-      <link>http://example.org/tags/backbone/</link>
+      <link>https://richstoner.github.io/tags/backbone/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/backbone/</guid>
+      <guid>https://richstoner.github.io/tags/backbone/</guid>
       <description></description>
     </item>
     
     <item>
       <title> bioensemble</title>
-      <link>http://example.org/tags/bioensemble/</link>
+      <link>https://richstoner.github.io/tags/bioensemble/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/bioensemble/</guid>
+      <guid>https://richstoner.github.io/tags/bioensemble/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Bootstrap</title>
-      <link>http://example.org/tags/bootstrap/</link>
+      <link>https://richstoner.github.io/tags/bootstrap/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/bootstrap/</guid>
+      <guid>https://richstoner.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title> BT2</title>
-      <link>http://example.org/tags/bt2/</link>
+      <link>https://richstoner.github.io/tags/bt2/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/bt2/</guid>
+      <guid>https://richstoner.github.io/tags/bt2/</guid>
       <description></description>
     </item>
     
     <item>
       <title> c</title>
-      <link>http://example.org/tags/c/</link>
+      <link>https://richstoner.github.io/tags/c/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/c/</guid>
+      <guid>https://richstoner.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title> c&#43;&#43;</title>
-      <link>http://example.org/tags/c&#43;&#43;/</link>
+      <link>https://richstoner.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/c&#43;&#43;/</guid>
+      <guid>https://richstoner.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> java</title>
+      <link>https://richstoner.github.io/tags/java/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Leaflet</title>
-      <link>http://example.org/tags/leaflet/</link>
+      <link>https://richstoner.github.io/tags/leaflet/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/leaflet/</guid>
+      <guid>https://richstoner.github.io/tags/leaflet/</guid>
       <description></description>
     </item>
     
     <item>
       <title> ODK</title>
-      <link>http://example.org/tags/odk/</link>
+      <link>https://richstoner.github.io/tags/odk/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/odk/</guid>
+      <guid>https://richstoner.github.io/tags/odk/</guid>
       <description></description>
     </item>
     
     <item>
       <title> OpenGL ES1.1</title>
-      <link>http://example.org/tags/opengl-es1.1/</link>
+      <link>https://richstoner.github.io/tags/opengl-es1.1/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/opengl-es1.1/</guid>
+      <guid>https://richstoner.github.io/tags/opengl-es1.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title> OpenGL ES2.0</title>
-      <link>http://example.org/tags/opengl-es2.0/</link>
+      <link>https://richstoner.github.io/tags/opengl-es2.0/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/opengl-es2.0/</guid>
+      <guid>https://richstoner.github.io/tags/opengl-es2.0/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Parse.com</title>
-      <link>http://example.org/tags/parse.com/</link>
+      <link>https://richstoner.github.io/tags/parse.com/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/parse.com/</guid>
+      <guid>https://richstoner.github.io/tags/parse.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Snapdragon Gaze SDK</title>
-      <link>http://example.org/tags/snapdragon-gaze-sdk/</link>
+      <link>https://richstoner.github.io/tags/snapdragon-gaze-sdk/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/snapdragon-gaze-sdk/</guid>
+      <guid>https://richstoner.github.io/tags/snapdragon-gaze-sdk/</guid>
       <description></description>
     </item>
     
     <item>
       <title> xtk</title>
-      <link>http://example.org/tags/xtk/</link>
+      <link>https://richstoner.github.io/tags/xtk/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/xtk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>http://example.org/tags/android/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java</title>
-      <link>http://example.org/tags/java/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>http://example.org/tags/java/</guid>
+      <guid>https://richstoner.github.io/tags/xtk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>USB sniffing</title>
-      <link>http://example.org/tags/usb-sniffing/</link>
+      <link>https://richstoner.github.io/tags/usb-sniffing/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/usb-sniffing/</guid>
+      <guid>https://richstoner.github.io/tags/usb-sniffing/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Google Fusion Tables</title>
-      <link>http://example.org/tags/google-fusion-tables/</link>
+      <link>https://richstoner.github.io/tags/google-fusion-tables/</link>
       <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/google-fusion-tables/</guid>
+      <guid>https://richstoner.github.io/tags/google-fusion-tables/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Google Maps API v3</title>
-      <link>http://example.org/tags/google-maps-api-v3/</link>
+      <link>https://richstoner.github.io/tags/google-maps-api-v3/</link>
       <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/google-maps-api-v3/</guid>
+      <guid>https://richstoner.github.io/tags/google-maps-api-v3/</guid>
       <description></description>
     </item>
     
     <item>
       <title> svg</title>
-      <link>http://example.org/tags/svg/</link>
+      <link>https://richstoner.github.io/tags/svg/</link>
       <pubDate>Sun, 06 Nov 2011 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/svg/</guid>
+      <guid>https://richstoner.github.io/tags/svg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>brain</title>
-      <link>http://example.org/tags/brain/</link>
+      <link>https://richstoner.github.io/tags/brain/</link>
       <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/brain/</guid>
+      <guid>https://richstoner.github.io/tags/brain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dc</title>
-      <link>http://example.org/tags/dc/</link>
+      <link>https://richstoner.github.io/tags/dc/</link>
       <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/dc/</guid>
+      <guid>https://richstoner.github.io/tags/dc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>map</title>
-      <link>http://example.org/tags/map/</link>
+      <link>https://richstoner.github.io/tags/map/</link>
       <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/map/</guid>
+      <guid>https://richstoner.github.io/tags/map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metro</title>
-      <link>http://example.org/tags/metro/</link>
+      <link>https://richstoner.github.io/tags/metro/</link>
       <pubDate>Tue, 06 Nov 2007 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/metro/</guid>
+      <guid>https://richstoner.github.io/tags/metro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3DSMax</title>
-      <link>http://example.org/tags/3dsmax/</link>
+      <link>https://richstoner.github.io/tags/3dsmax/</link>
       <pubDate>Tue, 06 Nov 2001 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/3dsmax/</guid>
+      <guid>https://richstoner.github.io/tags/3dsmax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vrml</title>
-      <link>http://example.org/tags/vrml/</link>
+      <link>https://richstoner.github.io/tags/vrml/</link>
       <pubDate>Tue, 06 Nov 2001 19:50:49 -0800</pubDate>
       
-      <guid>http://example.org/tags/vrml/</guid>
+      <guid>https://richstoner.github.io/tags/vrml/</guid>
       <description></description>
     </item>
     
