@@ -132,6 +132,11 @@
   </url>
   
   <url>
+    <loc>https://richstoner.github.io/tags/aws/</loc>
+    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://richstoner.github.io/tags/c#/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -192,11 +197,6 @@
   </url>
   
   <url>
-    <loc>https://richstoner.github.io/tags/unity3d/</loc>
-    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://richstoner.github.io/tags/vagrant/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -208,11 +208,6 @@
   
   <url>
     <loc>https://richstoner.github.io/tags/webgl/</loc>
-    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://richstoner.github.io/tags/aws/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
   
@@ -238,6 +233,11 @@
   
   <url>
     <loc>https://richstoner.github.io/tags/</loc>
+    <lastmod>2014-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://richstoner.github.io/tags/unity3d/</loc>
     <lastmod>2014-11-06T19:50:49-08:00</lastmod>
   </url>
   
@@ -312,6 +312,16 @@
   </url>
   
   <url>
+    <loc>https://richstoner.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://richstoner.github.io/tags/java/</loc>
+    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://richstoner.github.io/tags/leaflet/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
@@ -343,16 +353,6 @@
   
   <url>
     <loc>https://richstoner.github.io/tags/xtk/</loc>
-    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://richstoner.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2012-11-06T19:50:49-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://richstoner.github.io/tags/java/</loc>
     <lastmod>2012-11-06T19:50:49-08:00</lastmod>
   </url>
   
