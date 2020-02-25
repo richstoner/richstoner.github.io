@@ -147,7 +147,7 @@
     </item>
     
     <item>
-      <title> vtk</title>
+      <title> VTK</title>
       <link>https://richstoner.github.io/tags/vtk/</link>
       <pubDate>Thu, 06 Nov 2014 19:50:49 -0800</pubDate>
       
@@ -273,15 +273,6 @@
     </item>
     
     <item>
-      <title> Android</title>
-      <link>https://richstoner.github.io/tags/android/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> Backbone</title>
       <link>https://richstoner.github.io/tags/backbone/</link>
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
@@ -332,15 +323,6 @@
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
       <guid>https://richstoner.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> java</title>
-      <link>https://richstoner.github.io/tags/java/</link>
-      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
-      
-      <guid>https://richstoner.github.io/tags/java/</guid>
       <description></description>
     </item>
     
@@ -404,6 +386,24 @@
       <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
       
       <guid>https://richstoner.github.io/tags/xtk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://richstoner.github.io/tags/android/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://richstoner.github.io/tags/java/</link>
+      <pubDate>Tue, 06 Nov 2012 19:50:49 -0800</pubDate>
+      
+      <guid>https://richstoner.github.io/tags/java/</guid>
       <description></description>
     </item>
     
